@@ -21,7 +21,7 @@ opening_width = 7; //[5:15]
 /* [Appearance] */
 
 // Name to engrave, designed for short (up to 6 letters) name.
-name="Mocha";
+name="Pascal";
 
 // Second line to engrave, designed to fit 10 digit number. Leave blank to engrave nothing.
 additional_line="";
